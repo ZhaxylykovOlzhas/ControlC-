@@ -1,0 +1,9 @@
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp\bin\Debug\netstandard1.1\FixerSharp.deps.json
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp\bin\Debug\netstandard1.1\FixerSharp.dll
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp\bin\Debug\netstandard1.1\FixerSharp.pdb
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp\obj\Debug\netstandard1.1\FixerSharp.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp\obj\Debug\netstandard1.1\FixerSharp.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp\obj\Debug\netstandard1.1\FixerSharp.AssemblyInfoInputs.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp\obj\Debug\netstandard1.1\FixerSharp.AssemblyInfo.cs
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp\obj\Debug\netstandard1.1\FixerSharp.dll
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp\obj\Debug\netstandard1.1\FixerSharp.pdb

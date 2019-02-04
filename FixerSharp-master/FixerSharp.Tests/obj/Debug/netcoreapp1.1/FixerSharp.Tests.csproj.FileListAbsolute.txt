@@ -1,0 +1,17 @@
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\FixerSharp.Tests.deps.json
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\FixerSharp.Tests.runtimeconfig.json
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\FixerSharp.Tests.runtimeconfig.dev.json
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\FixerSharp.Tests.dll
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\FixerSharp.Tests.pdb
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\FixerSharp.dll
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\bin\Debug\netcoreapp1.1\FixerSharp.pdb
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\obj\Debug\netcoreapp1.1\FixerSharp.Tests.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\obj\Debug\netcoreapp1.1\FixerSharp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\obj\Debug\netcoreapp1.1\FixerSharp.Tests.AssemblyInfoInputs.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\obj\Debug\netcoreapp1.1\FixerSharp.Tests.AssemblyInfo.cs
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\obj\Debug\netcoreapp1.1\FixerSharp.Tests.csproj.CopyComplete
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\obj\Debug\netcoreapp1.1\FixerSharp.Tests.dll
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharp.Tests\obj\Debug\netcoreapp1.1\FixerSharp.Tests.pdb

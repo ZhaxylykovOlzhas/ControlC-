@@ -1,0 +1,15 @@
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\bin\Debug\FixerSharpWPF.exe.config
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\bin\Debug\FixerSharpWPF.exe
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\bin\Debug\FixerSharpWPF.pdb
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\FixerSharpWPF.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\App.g.cs
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\FixerSharpWPF_MarkupCompile.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\FixerSharpWPF_MarkupCompile.lref
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\MainWindow.baml
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\FixerSharpWPF.g.resources
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\FixerSharpWPF.Properties.Resources.resources
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\FixerSharpWPF.csproj.GenerateResource.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\FixerSharpWPF.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\FixerSharpWPF.exe
+C:\Users\ЖаксылыковО\Desktop\FixerSharp-master\FixerSharpWPF\obj\Debug\FixerSharpWPF.pdb
